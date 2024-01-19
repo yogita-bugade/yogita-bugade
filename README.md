@@ -2,18 +2,18 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
+  - [Active Directory Bulk User Creation]()
+  - [FIM (File Integrity Monitor)]()
 
 <h2>👨‍💻 Certifications/Courses and Bootcamps</h2>
 
-  - [Google Cybersecurity Professional](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Google Cybersecurity Professional]()
 
 <h2>📺 Software Development Projects</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python]()
 
 <h2> 🤳 Connect with me:</h2>
 
