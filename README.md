@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Security Map SIEM - Azure Sentinel Setup with Cloud-Based Honeypot](https://github.com/yogita-bugade/World-Map-SIEM-Azure-Sentinel)
-  - [Active Directory Bulk User Creation]()
+  - [File Integrity Monitor - PCI DSS](https://github.com/yogita-bugade/File-Integrity-Monitor-PCI-DSS)
   - [FIM (File Integrity Monitor)]()
 
 <h2>👨‍💻 Certifications/Courses and Bootcamps</h2>
