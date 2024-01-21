@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Security Map SIEM - Azure Sentinel Setup with Cloud-Based Honeypot](https://github.com/yogita-bugade/Failed-RDP-to-IP-Geolocation-Information)
+  - [Security Map SIEM - Azure Sentinel Setup with Cloud-Based Honeypot](https://github.com/yogita-bugade/Security Map SIEM - Azure Sentinel Setup with Cloud-Based Honeypot)
   - [Active Directory Bulk User Creation]()
   - [FIM (File Integrity Monitor)]()
 
