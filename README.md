@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Security Map SIEM - Azure Sentinel Setup with Cloud-Based Honeypot]()
+  - [Security Map SIEM - Azure Sentinel Setup with Cloud-Based Honeypot](https://github.com/yogita-bugade/World-Map-SIEM-Azure-Sentinel)
   - [Active Directory Bulk User Creation]()
   - [FIM (File Integrity Monitor)]()
 
