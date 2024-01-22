@@ -18,7 +18,7 @@
 
 <h2>📺 Software Development Projects</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures and Algorithms</b>
 
 <h2> 🤳 Connect with me:</h2>
 
