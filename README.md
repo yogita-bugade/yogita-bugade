@@ -8,6 +8,8 @@
   - [Secured Health Care Information Exchange on Cloud using advanced cryptographic techniques(ECDH, AES and SHA-256)](https://github.com/yogita-bugade/Secured-Secured-Health-Care-Information-Exchange-on-Cloud-Using-AES-and-SHA-3-Algorithms)
   - [Cryptography Ciphers Implementation in JavaScript](https://github.com/yogita-bugade/Cryptography-Ciphers-Implementation-in-JavaScript)
   - [Vulnerability Management with Nessus](https://github.com/yogita-bugade/Vulnerability-Management-with-Nessus)
+  - [Next-Gen Firewall with Intrusion Detection System](https://github.com/yogita-bugade/Next-Gen-Firewall-with-Intrusion-Detection-System)
+
  
 
 <h2>👨‍💻 Certifications/Courses and Bootcamps</h2>
