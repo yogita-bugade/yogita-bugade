@@ -5,7 +5,7 @@
   - [Security Map SIEM - Azure Sentinel Setup with Cloud-Based Honeypot](https://github.com/yogita-bugade/World-Map-SIEM-Azure-Sentinel)
   - [Active Directory Dynamics : Server Administration](https://github.com/yogita-bugade/Active-Directory-Dynamics-Server-Administration)
   - [File Integrity Monitor - PCI DSS](https://github.com/yogita-bugade/File-Integrity-Monitor-PCI-DSS)
-  - [Secured Secured Health Care Information Exchange on Cloud Using AES and SHA-3 Algorithms](https://github.com/yogita-bugade/File-Integrity-Monitor-PCI-DSS)
+  - [Secured Secured Health Care Information Exchange on Cloud Using AES and SHA-3 Algorithms](https://github.com/yogita-bugade/Secured-Secured-Health-Care-Information-Exchange-on-Cloud-Using-AES-and-SHA-3-Algorithms)
   - [File Integrity Monitor - PCI DSS](https://github.com/yogita-bugade/File-Integrity-Monitor-PCI-DSS)
   - [File Integrity Monitor - PCI DSS](https://github.com/yogita-bugade/File-Integrity-Monitor-PCI-DSS)
  
