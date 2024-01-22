@@ -6,7 +6,7 @@
   - [Active Directory Dynamics : Server Administration](https://github.com/yogita-bugade/Active-Directory-Dynamics-Server-Administration)
   - [File Integrity Monitor - PCI DSS](https://github.com/yogita-bugade/File-Integrity-Monitor-PCI-DSS)
   - [Secured Health Care Information Exchange on Cloud using advanced cryptographic techniques(ECDH, AES and SHA-256)](https://github.com/yogita-bugade/Secured-Secured-Health-Care-Information-Exchange-on-Cloud-Using-AES-and-SHA-3-Algorithms)
-  - [File Integrity Monitor - PCI DSS](https://github.com/yogita-bugade/File-Integrity-Monitor-PCI-DSS)
+  - [Cryptography Ciphers Implementation in JavaScript](https://github.com/yogita-bugade/Cryptography-Ciphers-Implementation-in-JavaScript)
   - [File Integrity Monitor - PCI DSS](https://github.com/yogita-bugade/File-Integrity-Monitor-PCI-DSS)
  
 
