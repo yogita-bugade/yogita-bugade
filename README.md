@@ -22,7 +22,7 @@
 
 <h2>📺 Software Development Projects</h2>
 
-- [Next-Gen Firewall with Intrusion Detection System](https://github.com/yogita-bugade/Mini-Search-Engine)
+- [Mini Search Engine](https://github.com/yogita-bugade/Mini-Search-Engine)
 
 <h2> 🤳 Connect with me:</h2>
 
