@@ -9,6 +9,7 @@
   - [Cryptography Ciphers Implementation in JavaScript](https://github.com/yogita-bugade/Cryptography-Ciphers-Implementation-in-JavaScript)
   - [Vulnerability Management with Nessus](https://github.com/yogita-bugade/Vulnerability-Management-with-Nessus)
   - [Next-Gen Firewall with Intrusion Detection System](https://github.com/yogita-bugade/Next-Gen-Firewall-with-Intrusion-Detection-System)
+  
 
  
 
@@ -17,6 +18,7 @@
   - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/EZSUH5GSU69X)
   - [National Cyber Scholar 2023](https://badgr.com/public/assertions/xLF1C1gNSh6TxVky2IKxDg?identity__email=ybugade@stevens.edu)
   - [Security Analyst Bootcamp(Splunk)](https://certificate.givemycertificate.com/c/e0c895a1-f440-41cc-a6b6-3bdd2f13e068)
+  - [Threat Hunting Bootcamp](https://certificate.givemycertificate.com/c/f45f7ee0-f829-438f-9529-645884fae3d1)
 
 <h2>📺 Software Development Projects</h2>
 
