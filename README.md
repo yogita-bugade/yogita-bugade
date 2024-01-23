@@ -15,6 +15,8 @@
 <h2>👨‍💻 Certifications/Courses and Bootcamps</h2>
 
   - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/EZSUH5GSU69X)
+  - [National Cyber Scholar 2023](https://badgr.com/public/assertions/xLF1C1gNSh6TxVky2IKxDg?identity__email=ybugade@stevens.edu)
+  - [Security Analyst Bootcamp(Splunk)](https://github.com/yogita-bugade/Security-Analyst-Bootcamp)
 
 <h2>📺 Software Development Projects</h2>
 
