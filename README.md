@@ -14,7 +14,7 @@
 
 <h2>👨‍💻 Certifications/Courses and Bootcamps</h2>
 
-  - [Google Cybersecurity Professional]()
+  - [Google Cybersecurity Professional](https://www.coursera.org/account/accomplishments/professional-cert/EZSUH5GSU69X)
 
 <h2>📺 Software Development Projects</h2>
 
